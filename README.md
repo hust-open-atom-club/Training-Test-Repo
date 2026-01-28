@@ -1,6 +1,6 @@
  # Training-Test-Repo
 
-Do not go gentle into that good nigth,
+Do not go gentle into that good night,
 
 Old age should burn and rave at close of day;
 
